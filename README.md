@@ -26,9 +26,20 @@ Aqui estão algumas das principais tecnologias que fazem parte do meu dia a dia:
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-FFA500?style=for-the-badge&logo=webhooks&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![API REST](https://img.shields.io/badge/API_REST-009688?style=for-the-badge&logo=rest&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=sql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Eclipse Mosquitto](https://img.shields.io/badge/Eclipse_Mosquitto-8A009E?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
+![Sidekiq](https://img.shields.io/badge/Sidekiq-008B8B?style=for-the-badge&logo=sidekiq&logoColor=white)
+
+- **Mensageria** 📨
+  <br>
+  ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+  ![Shoryuken](https://img.shields.io/badge/Shoryuken-FF6347?style=for-the-badge&logo=shoryuken&logoColor=white)
+
 
 Essas tecnologias me permitem construir aplicações robustas e escaláveis, enquanto também me dão a flexibilidade e o controle necessários para criar soluções de alta qualidade.
 
