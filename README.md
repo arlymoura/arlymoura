@@ -24,12 +24,11 @@ Vamos criar algo incrível juntos!
 
 Aqui estão algumas das principais tecnologias que fazem parte do meu dia a dia:
 
-- ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) 
-- ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=sql&logoColor=white)
-- ![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=sql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 Essas tecnologias me permitem construir aplicações robustas e escaláveis, enquanto também me dão a flexibilidade e o controle necessários para criar soluções de alta qualidade.
 
@@ -38,9 +37,9 @@ Essas tecnologias me permitem construir aplicações robustas e escaláveis, enq
 
 Estou constantemente buscando expandir meu conjunto de habilidades e ficar atualizado com as últimas tecnologias. Algumas das tecnologias que estou explorando atualmente incluem:
 
-- ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white) 
-- ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![Aprendizado de Máquina](https://img.shields.io/badge/Aprendizado_de_Máquina-FF6F61?style=for-the-badge&logo=python&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white) 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Aprendizado de Máquina](https://img.shields.io/badge/Aprendizado_de_Máquina-FF6F61?style=for-the-badge&logo=python&logoColor=white)
 
 A exploração dessas tecnologias me permite enfrentar desafios diversos e me mantém entusiasmado com o aprendizado contínuo. Estou animado para ver como essas ferramentas podem ser aplicadas para criar soluções inovadoras no futuro!
